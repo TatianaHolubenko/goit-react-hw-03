@@ -1,0 +1,11 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.string {
+  max-width: 250px;
+  border-radius: 4px;
+  border-width: 1px;
+}
